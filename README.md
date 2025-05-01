@@ -1,71 +1,72 @@
-## Hi there, I'm Abu Md Masbah Uddin 👋
+# Hi there, I'm Abu Md. Masbah Uddin 👋
 
-Welcome to my GitHub! I have a deep passion for Offensive Security, and I thrive on learning about penetration testing, uncovering vulnerabilities, and exploring all facets of cybersecurity.
+I'm a **Software Engineer** specializing in backend development, cloud computing ☁️ (AWS, Azure), and database architecture. I love solving complex problems and building scalable systems. I work mainly in **JavaScript/TypeScript** and **Python**, crafting backend services with Node.js (Express, NestJS) and FastAPI. I also enjoy exploring new tools like **Go, Rust, Flutter, and blockchain technologies** 🤖 to keep my skills sharp.  
 
-## 🚀 About Me  
+I have a strong interest in **cybersecurity** and ethical hacking. Breaking (and fixing) systems is a fun challenge for me — I regularly participate in CTF-style competitions to sharpen my skills. I **served as the Cyber Security Secretary at ASRRO (CUET)**, where I organized workshops on web security and best practices 🔒. This security-first mindset informs all my projects.
 
-- 🔥 Currently learning **penetration testing and bug bounty hunting**. I enjoy the challenge of **finding and exploiting vulnerabilities** to strengthen security.  
-- 🎯 **Actively looking for an internship in offensive security** to gain practical experience and improve my skills in real-world cybersecurity.  
-- 🏴‍☠️ Passionate about **ethical hacking, web application security, and CTF challenges**, always sharpening my problem-solving skills.  
-- 🎓 In the **final six months of my Computer Science & Engineering degree**. My priority is to **complete my studies**, then fully transition into cybersecurity.  
-- 🚀 A **fast learner** with a strong **problem-solving mindset**, always eager to **explore new hacking methodologies and security techniques**.  
-- 💡 Always open to discussions on **security research, vulnerability assessment, and hacking methodologies** to learn and share knowledge.  
+---
 
-<!-- - 🎓 Planning to pursue a master's degree in cybersecurity, focusing on advanced offensive security techniques. 
-- 🌱 Aspiring to earn my OSCP certification in the future, although I'm not focusing on it just yet. -->
-### 🏆 Achievements and Awards
+## 🏆 Highlights
 
-- 🥈 **Runner-up in HackCSB**  
-  Secured the **2nd position** in **HackCSB**, a global hackathon organized by **Coding Shikhbe Bangladesh (CSB)** | **2024**
+- 🥈 **HackCSB 2024 Runner-Up** — Recognized for fast, innovative problem solving in a global hackathon.  
+- **APIsec CP & Google Cybersecurity Certs** — Security-aware coding practices baked into every project.  
 
-### 🚀 Featured Projects
-- **[Scholarship Machine](https://github.com/ma5bah/scholarship_job_alert)**  
-  A **Telegram bot** that **automates scholarship and job alerts**, making it easier for users to stay updated on new opportunities. The bot scrapes relevant data and delivers timely notifications.  
-  - 🔍 **Key Features**:  
-    - Fetches and filters scholarship/job postings automatically  
-    - Sends real-time alerts via Telegram  
-    - Built with **Python**, **BeautifulSoup**, and **Telegram API**  
-  - 🔗 [Check it out](https://github.com/ma5bah/scholarship_job_alert)  
-- **[EyeOfTheCosmos](https://github.com/ma5bah/EyeOfTheCosmos)**  
-  A **multimedia educational project** combining **JWST imagery, music, and interactive 3D games** to inspire curiosity about the universe.  
-  - 🏆 **Role & Contributions**:  
-    - Led the **entire development** process, integrating **Flutter** and learning **Unity & C# in just 12 days** to build immersive 3D educational games.  
-    - Successfully **deployed a complete system**, showcasing rapid learning and execution.  
-  - 🛠 **Tech Stack**: `Flutter`, `Unity`, `C#`, `Blender`  
-  - 🔗 **GitHub Repo**: [EyeOfTheCosmos](https://github.com/ma5bah/EyeOfTheCosmos)  
-  - 📥 **Download APK**: [Download](https://github.com/ma5bah/EyeOfTheCosmos/releases/download/v1.0.0/TeamArtemisUpdated.apk)  
+---
 
-- **[Grey Matter](https://github.com/ma5bah/GreyMatterFrontend)**  
-  A **research platform** that connects students with **top Bangladeshi researchers and academic journals**, offering insights aligned with **key academic metrics and SDGs**.  
-  - 🏆 **Role & Contributions**:  
-    - Designed and **deployed the backend**, ensuring robust **data processing** and seamless integration with **React.js** for an improved **user experience**.  
-    - Optimized database queries and API response times to **enhance platform performance**.  
-  - 🛠 **Tech Stack**: `NodeJS`, `PostgreSQL`, `Prisma`, `ReactJS`  
-  - 🔗 **GitHub Repo**: [Grey Matter](https://github.com/ma5bah/GreyMatterFrontend)  
-  - 🌐 **Live Demo**: [grey-matter-omega.vercel.app](https://grey-matter-omega.vercel.app)
+## 🔧 Technologies & Tools
 
+- **Languages:** JavaScript/TypeScript, Python, Go, Rust, C++, Java  
+- **Cloud & DevOps:** AWS, Azure, Docker, Linux, NGINX  
+- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase  
+- **Frameworks & Libraries:** Express.js, NestJS, React, Django, Flutter, Unity  
 
+---
 
-## 🔗 Let's Connect!
+## 🚀 Featured Projects
 
-- [LinkedIn](https://www.linkedin.com/in/ma5bah/)
-- [Twitter](https://www.twitter.com/ma5bah)
-- [Personal Website](https://www.ma5bah.com)
+- [**Scholarship Machine Bot**](https://github.com/ma5bah/scholarship_job_alert)  
+  A Telegram bot that automates scholarship and job alerts. Scrapes websites and delivers real-time updates via Telegram.  
+  **Tech:** Python, BeautifulSoup, Telegram API
 
-🚀 **Actively looking for an internship or entry-level pentester role. If you have an opportunity or just want to chat about security, feel free to reach out!**  
+- [**Eye of the Cosmos**](https://github.com/ma5bah/EyeOfTheCosmos)  
+  A 3D educational game using space imagery, music, and puzzles to spark curiosity.  
+  **Built with:** Flutter, Unity, C#, Blender — Developed in just 12 days!
 
+- [**Grey Matter Platform**](https://github.com/ma5bah/GreyMatterFrontend)  
+  A research platform connecting students with top Bangladeshi academics.  
+  **Tech Stack:** NodeJS, PostgreSQL, Prisma, ReactJS  
+  🌐 [Live Demo](https://grey-matter-omega.vercel.app)
 
-<!--
-**ma5bah/ma5bah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [**Vector Classes Management System**](https://www.vectorclasses.net)  
+  Backend system for a tech education startup I co-founded. Integrated Firebase Auth and Firestore for secure, scalable data handling.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+
+- ✅ **APIsec Certified Practitioner (ACP)** – *Apr 2025*  
+- ✅ **Google Cybersecurity Professional Certificate** – *Dec 2023*
+
+---
+
+## 🤝 Roles & Leadership
+
+- 🔒 **Cyber Security Secretary**, ASRRO (CUET) – *2024–2025*  
+  Led campus-wide security awareness campaigns, hosted ethical hacking workshops.
+
+- 🚀 **Co-Founder**, Vector Classes – *2022–Present*  
+  Developed the entire backend, led platform strategy, and managed operations for a student-focused learning platform.
+
+---
+
+## 📫 Let's Connect!
+
+I'm actively looking for **internships or entry-level opportunities** in software engineering and cybersecurity.  
+Feel free to reach out if you'd like to collaborate, discuss ideas, or just say hi!
+
+- 🌐 [Website](https://www.ma5bah.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ma5bah)  
+- 🐦 [Twitter](https://www.twitter.com/ma5bah)  
+- 💌 [Email](mailto:masbahuddin60@gmail.com)
+
+---
