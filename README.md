@@ -15,10 +15,10 @@ I have a strong interest in **cybersecurity** and ethical hacking. Breaking (and
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript/TypeScript, Python, Go, Rust, C++, Java  
+- **Languages:** JavaScript / TypeScript, Python, Go, Rust, C++, Java, **Solidity**  
 - **Cloud & DevOps:** AWS, Azure, Docker, Linux, NGINX  
 - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase  
-- **Frameworks & Libraries:** Express.js, NestJS, React, Django, Flutter, Unity  
+- **Frameworks & Libraries:** Express.js, NestJS, FastAPI, Django, React / Next.js, Flutter, Unity, Prisma ORM, GraphQL, Socket.IO, gRPC 
 
 ---
 
