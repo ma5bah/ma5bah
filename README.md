@@ -15,10 +15,10 @@ I have a strong interest in **cybersecurity** and ethical hacking. Breaking (and
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript / TypeScript, Python, Go, Rust, C++, Java, **Solidity**, Bash, C   
+- **Languages:** JavaScript / TypeScript, Python, Go, Rust, C++, Java, Solidity, Bash, C   
 - **Cloud & DevOps:** AWS, Azure, Docker, Linux, NGINX  
 - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase  
-- **Frameworks & Libraries:** Express.js, NestJS, FastAPI, Django, React / Next.js, Flutter, Unity, Prisma ORM, GraphQL, Socket.IO, gRPC 
+- **Frameworks & Libraries:** Express.js, NestJS, FastAPI, Django, React / Next.js, Flutter, Unity, Prisma ORM, GraphQL, Socket.IO
 
 ---
 
@@ -26,7 +26,7 @@ I have a strong interest in **cybersecurity** and ethical hacking. Breaking (and
 
 - [**Scholarship Machine Bot**](https://github.com/ma5bah/scholarship_job_alert)  
   A Telegram bot that automates scholarship and job alerts. Scrapes websites and delivers real-time updates via Telegram.  
-  **Tech:** Python, BeautifulSoup, Telegram API
+  **Tech:** NodeJS, JSDom, Telegram API
 
 - [**Eye of the Cosmos**](https://github.com/ma5bah/EyeOfTheCosmos)  
   A 3D educational game using space imagery, music, and puzzles to spark curiosity.  
@@ -34,12 +34,12 @@ I have a strong interest in **cybersecurity** and ethical hacking. Breaking (and
 
 - [**Grey Matter Platform**](https://github.com/ma5bah/GreyMatterFrontend)  
   A research platform connecting students with top Bangladeshi academics.  
-  **Tech Stack:** NodeJS, PostgreSQL, Prisma, ReactJS  
+  **Tech Stack:** ExpressJS, PostgreSQL, Prisma, ReactJS  
   🌐 [Live Demo](https://grey-matter-omega.vercel.app)
 
 - [**Vector Classes Management System**](https://www.vectorclasses.net)  
   Backend system for a tech education startup I co-founded. Integrated Firebase Auth and Firestore for secure, scalable data handling.
-
+  **Tech Stack:** NestJS, PostgreSQL, Prisma, ReactJS 
 ---
 
 ## 📜 Certifications
