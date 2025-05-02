@@ -9,13 +9,13 @@ I have a strong interest in **cybersecurity** and ethical hacking. Breaking (and
 ## 🏆 Highlights
 
 - 🥈 **HackCSB 2024 Runner-Up** — Recognized for fast, innovative problem solving in a global hackathon.  
-- **APIsec CP & Google Cybersecurity Certs** — Security-aware coding practices baked into every project.  
+- **APIsec Certified Practitioner & Google Cybersecurity Certificate** — Security-aware coding practices baked into every project.  
 
 ---
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** JavaScript / TypeScript, Python, Go, Rust, C++, Java, **Solidity**  
+- **Languages:** JavaScript / TypeScript, Python, Go, Rust, C++, Java, **Solidity**, Bash, C   
 - **Cloud & DevOps:** AWS, Azure, Docker, Linux, NGINX  
 - **Databases:** MySQL, PostgreSQL, MongoDB, Firebase  
 - **Frameworks & Libraries:** Express.js, NestJS, FastAPI, Django, React / Next.js, Flutter, Unity, Prisma ORM, GraphQL, Socket.IO, gRPC 
@@ -54,7 +54,7 @@ I have a strong interest in **cybersecurity** and ethical hacking. Breaking (and
 - 🔒 **Cyber Security Secretary**, ASRRO (CUET) – *2024–2025*  
   Led campus-wide security awareness campaigns, hosted ethical hacking workshops.
 
-- 🚀 **Co-Founder**, Vector Classes – *2022–Present*  
+- 🚀 **Co-Founder**, Vector Classes – *2022–2024*  
   Developed the entire backend, led platform strategy, and managed operations for a student-focused learning platform.
 
 ---
